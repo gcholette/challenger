@@ -35,5 +35,25 @@
                 &kp LGUI    &trans      &trans                  &trans      &trans      &trans
             >;
         };
+        
+        fourth {
+            bindings = <
+                            &trans      &trans      &trans      &trans      &trans      &trans      &trans
+                            &trans      &trans      &trans      &trans      &trans      &trans      &trans
+                            &trans      &trans      &trans      &trans      &trans      &trans      &trans
+                &trans      &trans      &trans      &trans      &trans      &trans      &trans      &trans
+                &trans      &trans      &trans                  &trans      &trans      &trans
+            >;
+        };
+
+        fifth {
+            bindings = <
+                            &trans      &trans      &trans      &trans      &trans      &trans      &trans
+                            &trans      &trans      &trans      &trans      &trans      &trans      &trans
+                            &trans      &trans      &trans      &trans      &trans      &trans      &trans
+                &trans      &trans      &trans      &trans      &trans      &trans      &trans      &trans
+                &trans      &trans      &trans                  &trans      &trans      &trans
+            >;
+        };
     };
 };
